@@ -1,0 +1,5 @@
+<resources>
+    <style name="CashMoneyTheme" parent="android:style/Theme.Material.NoActionBar">
+        <item name="android:fontFamily">@font/vt323</item>
+    </style>
+</resources>
